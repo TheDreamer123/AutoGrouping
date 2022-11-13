@@ -14,8 +14,8 @@
 ### Links
 **CurseForge: **
 
-**Modrinth: **
+**Modrinth: https://modrinth.com/mod/autogrouping**
 
 **Releases: **
 
-**Issues: **
+**Issues: https://github.com/TheDreamer123/AutoGrouping/issues**
