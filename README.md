@@ -12,7 +12,7 @@
 **Yes! Yes you can! Feel free to use it, I just ask for credits.**
 
 ### Links
-**CurseForge: **
+**CurseForge: https://www.curseforge.com/minecraft/mc-mods/autogrouping**
 
 **Modrinth: https://modrinth.com/mod/autogrouping**
 
