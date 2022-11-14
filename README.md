@@ -22,6 +22,6 @@
 
 **Modrinth: https://modrinth.com/mod/autogrouping**
 
-**Releases: **
+**Releases: https://github.com/TheDreamer123/AutoGrouping/releases/tag/1.19.x**
 
 **Issues: https://github.com/TheDreamer123/AutoGrouping/issues**
