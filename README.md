@@ -11,6 +11,11 @@
 ## So, can I use this in my modpack?
 **Yes! Yes you can! Feel free to use it, I just ask for credits.**
 
+## Forge? X version??
+**There are currently no plans on making a Forge version.**
+
+**I might do some backporting to versions as low as 1.16.**
+
 ### Links
 **CurseForge: https://www.curseforge.com/minecraft/mc-mods/autogrouping**
 
