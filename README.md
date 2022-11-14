@@ -1,4 +1,5 @@
 # AutoGrouping
+**A Fabric mod aiming at making modded item organization just a tiny bit better.**
 
 ## What does this mod do?
 **AutoGrouping is an utility mod that looks for modded items in vanilla tabs and creates a new tab for these items!**
