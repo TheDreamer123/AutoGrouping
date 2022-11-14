@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "autogrouping",
+  "version": "${version}",
+
+  "name": "AutoGrouping",
+  "description": "Automatically groups modded items in vanilla groups.",
+  "authors": [
+    "TheDreamer123"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/autogrouping",
+    "sources": "https://github.com/TheDreamer123/AutoGrouping",
+    "issues": "https://github.com/TheDreamer123/AutoGrouping/issues"
+  },
+
+  "license": "MIT",
+  "icon": "assets/autogrouping/autogrouping.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.dreamer.autogrouping.AutoGroupingClient"
+    ]
+  },
+  "mixins": [
+    "autogrouping.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
